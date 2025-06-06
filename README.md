@@ -4,7 +4,7 @@
 
 ## 🌐 Live Demo
 
-[View Live Site](https://quiet-fox-6de889.netlify.app/#logo)
+[View Live Site]()
 
 ## 🚀 Features
 

@@ -4,7 +4,7 @@
 
 ## 🌐 Live Demo
 
-[View Live Site]()
+[View Live Site](https://study-sync-five-mu.vercel.app)
 
 ## 🚀 Features
 
